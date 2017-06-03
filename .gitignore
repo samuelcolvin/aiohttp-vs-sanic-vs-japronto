@@ -1,0 +1,5 @@
+env/
+*.py[cod]
+.idea/
+access.log
+error.log
