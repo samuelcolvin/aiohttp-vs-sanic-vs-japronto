@@ -33,4 +33,4 @@ async def get_form_db(request):
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8000, log_config=None)
+    app.run(host='localhost', port=8000, access_log=False)
